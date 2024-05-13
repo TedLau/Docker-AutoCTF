@@ -51,6 +51,7 @@
 
 - [CTFTraining](https://github.com/CTFTraining/CTFTraining)
 - [ctf_challenges](https://github.com/le31ei/ctf_challenges)
+- [sus_WPs](https://github.com/susers/Writeups/tree/master)
 ...
 
 我们感谢这些项目的作者和贡献者对开源社区的贡献。
