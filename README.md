@@ -45,6 +45,7 @@ This project uses the following open source projects and resources：
 
 - [CTFTraining](https://github.com/CTFTraining/CTFTraining)
 - [ctf_challenges](https://github.com/le31ei/ctf_challenges)
+- [sus_WPs](https://github.com/susers/Writeups/tree/master)
 
 We thank the authors and contributors of these projects for their contributions to the open source community.
 
